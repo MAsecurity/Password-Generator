@@ -7,7 +7,6 @@ This project allows user's to generate strong password's , thus increasing the l
 - Arrays
 ## Getting started
 ```console
-user@security:~/Password-Generator$ chmod u+x password-generator.sh
 user@security:~/Password-Generator$ ./password-generator.sh
 Xk@Mc$Vf*Cp!
 ```

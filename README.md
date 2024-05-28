@@ -8,5 +8,5 @@ This project allows user's to generate strong password's , thus increasing the l
 ## Getting started
 ```console
 user@security:~/Password-Generator$ ./password-generator.sh
-Xk@Mc$Vf*Cp!
+Ae!3Td$7Br@9Dv@0
 ```
